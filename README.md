@@ -2,8 +2,8 @@
 <h2>Connecting golang with database PostgresSQL</h2>
 </p>
 
-<h2>Read with care</h2>
-<h3>In "Vehicle".motor</h3>
+<h3> Note</h3>
+<h3> >>main.go "Vehicle".motor</h3>
  <table>
   <tr>
     <th>Vehicle</th>
