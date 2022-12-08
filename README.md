@@ -3,10 +3,10 @@
 </p>
 
 <h3> Note</h3>
-<h3> >>main.go "Vehicle".motor</h3>
+<h3> >>main.go "vehicle".motor</h3>
  <table>
   <tr>
-    <th>Vehicle</th>
+    <th>vehicle</th>
     <th>motor</th>
   </tr>
   <tr>
