@@ -30,6 +30,7 @@ func main() {
 	CheckError(err)
 	defer db.Close() // Db connection will be closed after the main function completes its execution
 
+	// Inserting data into database
 	insertData := `INSERT INTO "Vehicle".motor ("vehicle_name","vehicle_company") VALUES ('Civic','Honda')`
 	_, e := db.Exec(insertData)
 	CheckError(e)
