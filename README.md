@@ -1,4 +1,4 @@
-# Golang Postgres Conection
+# Golang Postgres Connection
 
 - Connection String
 
